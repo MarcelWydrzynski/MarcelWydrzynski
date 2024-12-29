@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelwydrzynski" alt="marcelwydrzynski" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio website](https://github.com/MarcelWydrzynski/portfolio-V2)
+- 🔭 I’m currently working on [motorcycles shop website](https://github.com/MarcelWydrzynski/Motorcycle-shop-website)
 
 - 🌱 I’m currently learning **ReactJS and Tailwind**
 
